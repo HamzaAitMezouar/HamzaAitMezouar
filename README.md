@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HamzaAitMezouar
 - 👀 I’m interested in Mobile developement
 - 🌱 I’m currently learning Flutter/Dart ,Firebase.
-- 💞️ I’m looking to collaborate on a project where I can learn more about flutter apps .
+- 💞️ I’m looking to collaborate on a project where I can create more beautiful flutter apps .
 - 📫 Linkedin : Hamza Ait Mezouar
 
 <!---
