@@ -1,1 +1,9 @@
 - 👋 Hi, I’m @HamzaAitMezouar
+- 🚀 Skills
+- Mobile App Development with Flutter.
+- Building robust backends with Node.js and Prisma/Django.
+- Integrating Stripe for online payments.
+- Crafting efficient database schemas and queries.
+- Developing RESTful and GraphQL APIs.
+- Utilizing AWS Amplify for serverless infrastructure.
+- Experience with real-time mobile applications with Realm and Firebase.
